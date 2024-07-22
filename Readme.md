@@ -1,0 +1,2 @@
+# Powershell
+Basterdized shell scripting
